@@ -26,7 +26,7 @@ gem "after_commit_everywhere", "~> 1.6"
 gem "redis", "~> 5.3"
 gem "rack-cors", "~> 2.0"
 gem "sidekiq", "~> 7.1.2"
-gem "rack-attack", "~> 6.7"
+gem "rack-attack", "~> 6.8"
 gem "mini_magick", "~> 5.2.0"
 group :development, :test do
   gem "dotenv-rails", "~> 3.1"
