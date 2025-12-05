@@ -25,7 +25,7 @@ gem "aasm", "~> 5.5.0"
 gem "after_commit_everywhere", "~> 1.6"
 gem "redis", "~> 5.3"
 gem "rack-cors", "~> 2.0"
-gem "sidekiq", "~> 7.1.2"
+gem "sidekiq", "~> 8.0.10"
 gem "rack-attack", "~> 6.7"
 gem "mini_magick", "~> 5.2.0"
 group :development, :test do
