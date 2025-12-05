@@ -13,7 +13,7 @@ gem "image_processing", "~> 1.14"
 gem "bcrypt", "~> 3.1.7"
 gem "tzinfo-data", platforms: %i[ windows jruby ]
 gem "bootsnap", require: false
-gem "roo", "~> 2.7"
+gem "roo", "~> 3.0"
 gem "csv", "~> 3.0"
 gem "cancancan", "~> 3.5"
 gem "combine_pdf", "~> 1.0"
